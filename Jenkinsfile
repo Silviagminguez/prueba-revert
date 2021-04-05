@@ -2,7 +2,7 @@
 //
 // V.1.0.0
 //
-//hola 
+
 def server_up = false
 
 pipeline {
